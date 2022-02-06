@@ -15,7 +15,7 @@ It was made as a task/challenge for a job application, in accord to the followin
 
 ## Build status
 
-![build-status](https://img.shields.io/badge/project-finished-brightgreen)
+![build-status](https://img.shields.io/badge/build-finished-brightgreen)
 
 ## Code style
 
