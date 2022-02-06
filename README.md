@@ -1,4 +1,4 @@
-## WORD-COUNTER
+# WORD-COUNTER
 
 This project is a word-counter
 
@@ -22,11 +22,11 @@ It's finished and running! 😄
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 ## Used langagued
-
+### All plain, no frameworks
 - HTML
 - CSS
 - Javascript
--   **All plain, no frameworks**
+   
 
 ## Features
 
@@ -41,4 +41,8 @@ The coloring was done on CSS from a basic knowledge from the aimed company's pal
 * Step 3: After your download is finished, locate the file and extract it's content;
 * Step 4: Open the **word-counter-main** folder, and locate the **index.html** file;
 * Step 5: Double click the **index.html** file.
+* Step 6: It should then open the application in your designated browser, ready to be tested!
 
+## Credits
+
+Credits due to Daniel, for addressing me this challenge to show some of my abilities.
