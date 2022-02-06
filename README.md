@@ -16,6 +16,7 @@ It was made as a task/challenge for a job application, in accord to the followin
 ## Build status
 
 It's finished and running! =)
+[![Build Status](https://travis-ci.org/akashnimare/foco.svg?branch=master)](https://travis-ci.org/akashnimare/foco)
 
 ## Code style
 
