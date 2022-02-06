@@ -36,7 +36,7 @@ The coloring was done on CSS from a basic knowledge from the aimed company's pal
 
 ## How to use?
 
-* Step 1: Open the following github folder https://github.com/Gapskii/word-counterStep;
+* Step 1: Open the following github folder https://github.com/Gapskii/word-counter;
 * Step 2: Click on the **Code** button, followed by **download ZIP**;
 * Step 3: After your download is finished, locate the file and extract it's content;
 * Step 4: Open the **word-counter-main** folder, and locate the **index.html** file;
