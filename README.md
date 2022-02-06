@@ -6,7 +6,7 @@ This project is a simple word counter.
 
 It was made as a task/challenge for a job application, in accord to the following parameters:
 
->A a user, I want to visualize a app that contains a form, with a text input in which I may
+>As a user, I want to visualize a app that contains a form, with a text input in which I may
 >freely write, without any character limitation. When I click the "count words" >button, the
 >result with the number of written words should appear on the screen. If the texbox is empty
 >when I click the button, I should see a error message indicating that >filling the textbox is needed.
