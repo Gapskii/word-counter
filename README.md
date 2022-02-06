@@ -29,7 +29,7 @@ It was made as a task/challenge for a job application, in accord to the followin
 
 It's main features are a _not entirely_ draggable textbox, where there's no character limit, a button which resolves the function that calculates the number of words and an output box in which the result will appear.
 
-The coloring was done on CSS from a basic knowledge from the aimed company's palette.
+The web app's coloring was done on CSS from a basic knowledge of the aimed company's palette.
 
 ## Code example
 ![code](assets/code-example.png)
