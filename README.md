@@ -32,7 +32,7 @@ It's main features are a _not entirely_ draggable textbox, where there's no char
 The coloring was done on CSS from a basic knowledge from the aimed company's palette.
 
 ## Code example
-![code](https://carbon.now.sh/?bg=rgba%28132%2C190%2C243%2C1%29&t=lucario&wt=none&l=javascript&width=680&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false&code=function%2520wordCounter%28%29%2520%257B%250A%2520%2520let%2520text%2520%253D%2520document.querySelector%28%27.input%27%29.value%250A%250A%2520%2520let%2520array%2520%253D%2520text.split%28%27%2520%27%29%250A%250A%2520%2520array%2520%253D%2520array.filter%28empty%2520%253D%253E%2520String%28empty%29.trim%28%29%29%250A%250A%2520%2520let%2520result%2520%253D%2520array.length%250A%250A%2520%2520if%2520%28text%2520%253D%253D%25200%29%2520%257B%250A%2520%2520%2520%2520alert%28%27Erro%253A%2520Favor%2520preencher%2520a%2520caixa%2520de%2520texto%2520antes%2520de%2520enviar%2520o%2520formul%25C3%25A1rio%27%29%250A%2520%2520%257D%2520else%2520%257B%250A%2520%2520%2520%2520numericValue.innerHTML%2520%253D%2520result%250A%2520%2520%2520%2520numericValue.style.color%2520%253D%2520%27%2523001e57%27%250A%2520%2520%257D%250A%257D)
+![code](assets/code-example.png)
 
 ## How to use?
 
