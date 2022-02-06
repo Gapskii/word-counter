@@ -1,0 +1,120 @@
+/*====== RESET =====*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*===== VARIABLES =====*/
+:root {
+  /* colors */
+
+  --background-white: #ffffff;
+  --background-color-two: #c6e9fa;
+  --background-color-three: #8ad2f6;
+  --text-color: #001e57;
+
+  /* fonts */
+  --title-font-size: 1.75rem;
+  --body-font-size: 1.25rem;
+
+  --title-font: 'PlayFair Display', serif;
+  --body-font: 'DM Sans', sans-serif;
+}
+
+/*========= BASE ===========*/
+
+body {
+  font: var(--body-font-size) var(--body-font), sans-serif;
+  color: var(--text-color);
+  background: var(--background-white);
+}
+
+/*=========== LAYOUT =========*/
+
+.container {
+  padding: 0.5rem 0;
+}
+
+.grid {
+  display: grid;
+  gap: 2rem;
+}
+
+/*========= HEADER ==========*/
+
+#header {
+  border-bottom: 3px solid var(--background-color-two);
+  margin-bottom: 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+#header .description {
+  font: 500 var(--title-font-size) var(--title-font), sans-serif;
+  color: var(--text-color);
+  text-align: center;
+  margin: 1rem;
+}
+
+/*==========  FORM  ===========*/
+
+#main {
+  display: flex;
+  justify-content: center;
+}
+
+#wordCounterForm {
+  background-color: var(--background-color-two);
+  padding: 2rem;
+  border-radius: 0.5rem;
+  display: flex;
+  justify-content: space-around;
+  grid-auto-flow: column;
+  align-items: center;
+  min-width: 440px;
+}
+
+#values {
+  display: flex;
+  flex-direction: column;
+}
+
+.input {
+  background-color: var(--background-color-three);
+  font: var(--body-font-size) var(--body-font);
+  border: none;
+  border-radius: 0.5rem;
+  height: 8rem;
+  min-height: 4rem;
+  max-height: 16rem;
+  width: 16rem;
+  max-width: 16rem;
+  min-width: 16rem;
+  color: var(--text-color);
+  margin: 0 1rem 1rem 0;
+  padding-left: 0.43rem;
+}
+
+.button {
+  background-color: var(--background-color-three);
+  color: var(--text-color);
+  height: 4rem;
+  width: 5.5rem;
+  border: none;
+  border-radius: 0.5rem;
+  font: var(--body-font) var(--title-font-size);
+  transition: background 0.5s;
+}
+
+.button:hover {
+  background: var(--background-white);
+}
+
+.output {
+  background-color: var(--background-color-three);
+  color: #808080;
+  border-radius: 0.5rem;
+  padding: 0.43rem 0 0.43rem 0.43rem;
+  margin-right: 1rem;
+}
