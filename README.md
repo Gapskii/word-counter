@@ -21,7 +21,7 @@ It's finished and running! 😄
 
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
-## Used langagued
+## Used languages
 ### All plain, no frameworks
 - HTML
 - CSS
