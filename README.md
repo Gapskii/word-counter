@@ -17,6 +17,9 @@ It was made as a task/challenge for a job application, in accord to the followin
 
 It's finished and running! 😄
 
+[![build-status](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)]
+
+
 ## Code style
 
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
