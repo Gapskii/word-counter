@@ -22,9 +22,9 @@ It's finished and running! 😄
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 ## Used languages
-- HTML ![Image](https://icomoon.io/iconsabf18a1/4/364.svg)
-- CSS
-- Javascript
+- ![Image](https://icomoon.io/iconsabf18a1/4/364.svg)
+- ![Image](https://icomoon.io/iconsabf18a1/4/171.svg)
+- ![Image](https://icomoon.io/iconsabf18a1/4/404.svg)
 - (No frameworks were used)
    
 
