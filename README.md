@@ -22,7 +22,7 @@ It's finished and running! 😄
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 ## Used languages
-- ![http://www.w3.org/TR/html5/]
+- ![Image](http://www.w3.org/TR/html5/)
 - CSS
 - Javascript
 - (No frameworks were used)
