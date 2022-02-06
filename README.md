@@ -1,6 +1,6 @@
 # WORD-COUNTER
 
-This project is a word-counter
+This project is a simple (*but effective*) word-counter
 
 ## Motivation
 
