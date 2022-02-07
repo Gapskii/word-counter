@@ -1,6 +1,9 @@
+### Update 1
+ This app has been changed to only consider different words when counting them.
+
 # WORD-COUNTER
 
-This project is a simple (*but effective*) word-counter
+This project is a simple (*but effective*) word-counter.
 
 ## Motivation
 
