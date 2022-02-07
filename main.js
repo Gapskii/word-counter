@@ -5,7 +5,9 @@ function wordCounter() {
 
   array = array.filter(empty => String(empty).trim())
 
-  let result = array.length
+  let wordList = new Set(array)
+
+  let result = wordList.size
 
   if (text == 0) {
     alert('Erro: Favor preencher a caixa de texto antes de enviar o formulário')
